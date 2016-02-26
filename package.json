@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-vter",
+  "version": "0.0.0",
+  "description": "ESLint config for my personal projects",
+  "main": "index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "repository": "Yuyuu/eslint-config-vter",
+  "files": [
+    "index.js",
+    "configurations"
+  ],
+  "keywords": [
+    "eslint",
+    "vter"
+  ],
+  "author": {
+    "name": "Vincent Tertre",
+    "email": "vincent.tertre@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^2.2.0"
+  }
+}

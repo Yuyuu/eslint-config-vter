@@ -8,7 +8,7 @@ module.exports = {
     'no-useless-constructor': 2,
     'no-var': 2,
     'prefer-arrow-callback': 2,
-    'prefer-const': 2,
+    'prefer-const': 0,
     'prefer-rest-params': 2,
     'prefer-spread': 2,
     'prefer-template': 2,
